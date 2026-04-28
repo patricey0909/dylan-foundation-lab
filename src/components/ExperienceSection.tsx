@@ -522,13 +522,14 @@ const ExperienceSection = () => {
             transition={{ delay: 0.1 }}
             className="rounded-xl border border-border bg-card/30 p-8"
           >
-            <p className="text-primary text-sm tracking-wider uppercase mb-1">Apr 2016 – Oct 2018</p>
+            <p className="text-primary text-sm tracking-wider uppercase mb-1">Aug 2016 – Oct 2018</p>
             <h3 className="text-2xl font-display font-bold text-foreground mb-2">Software Engineer</h3>
-            <p className="text-muted-foreground text-sm mb-4">PROS</p>
+            <p className="text-muted-foreground text-sm mb-4">Amazon</p>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Accelerated enterprise pricing and quoting workflows, making complex configuration
-              processes dramatically faster for Fortune 500 clients. Strengthened integration testing
-              and maintainable code patterns across the platform.
+              Engineered hyperscale services powering a flagship retail experience for hundreds of
+              millions of customers worldwide. Championed elegant, resilient architectures that
+              delivered sub-second performance at planetary scale, and elevated engineering
+              excellence through rigorous design reviews and operational rituals.
             </p>
           </motion.div>
         </div>
