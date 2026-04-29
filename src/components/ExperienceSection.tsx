@@ -348,8 +348,8 @@ const ExperienceSection = () => {
                 { src: uprightService, alt: "Impact data pipeline visualization" },
                 { src: uprightLot, alt: "Renewable energy landscape" },
               ]}
-              href="https://www.uprightproject.com"
-              label="The Upright Project"
+              href="https://www.cognizant.com"
+              label="Cognizant · The Upright Project"
               sublabel="ESG & CSRD Compliance Platform"
             />
             <DiagramColumn label="Platform Architecture" nodes={uprightNodes} direction="right" />
@@ -424,7 +424,7 @@ const ExperienceSection = () => {
                 { src: pearsuiteTeam, alt: "Healthcare team collaboration" },
                 { src: pearsuiteAnalytics, alt: "Patient analytics dashboard" },
               ]}
-              href="https://app.uniteus.io"
+              href="https://uniteus.com"
               label="Unite Us"
               sublabel="Coordinated Care Network Platform"
             />
