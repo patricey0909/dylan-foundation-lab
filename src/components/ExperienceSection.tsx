@@ -288,7 +288,14 @@ const ExperienceSection = () => {
                   Lead Software Engineer
                 </h3>
                 <p className="text-lg text-muted-foreground mt-1">
-                  Cognizant
+                  <a
+                    href="https://www.cognizant.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-primary transition-colors inline-flex items-center gap-1"
+                  >
+                    Cognizant <ExternalLink size={14} />
+                  </a>
                   {" "}· Client:{" "}
                   <a
                     href="https://www.uprightproject.com"
