@@ -285,9 +285,11 @@ const ExperienceSection = () => {
               <div>
                 <p className="text-primary text-sm tracking-wider uppercase mb-1">Jan 2025 – Present</p>
                 <h3 className="text-3xl md:text-4xl font-display font-bold text-foreground">
-                  Engineering Team Lead
+                  Lead Software Engineer
                 </h3>
                 <p className="text-lg text-muted-foreground mt-1">
+                  Cognizant
+                  {" "}· Client:{" "}
                   <a
                     href="https://www.uprightproject.com"
                     target="_blank"
@@ -296,13 +298,13 @@ const ExperienceSection = () => {
                   >
                     The Upright Project <ExternalLink size={14} />
                   </a>
-                  {" "}· ESG & CSRD Compliance Platform
+                  {" "}· Leading 5 engineers on ESG & CSRD Compliance Platform
                 </p>
               </div>
             </div>
 
             <p className="text-muted-foreground max-w-3xl leading-relaxed mb-4">
-              Spearheaded the transformation of scientific impact models into a market-ready CSRD compliance product,
+              As Lead Software Engineer at Cognizant, directed a team of five engineers delivering for flagship client The Upright Project. Spearheaded the transformation of scientific impact models into a market-ready CSRD compliance product,
               delivering automated materiality assessments that cut report turnaround time in half. Architected
               cloud-native data pipelines processing thousands of company ESG profiles, enabling enterprise clients
               to meet EU sustainability mandates ahead of regulatory deadlines.
@@ -363,14 +365,14 @@ const ExperienceSection = () => {
                 </h3>
                 <p className="text-lg text-muted-foreground mt-1">
                   <a
-                    href="https://www.pearsuite.com"
+                    href="https://app.uniteus.io"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-primary transition-colors inline-flex items-center gap-1"
                   >
-                    PearSuite <ExternalLink size={14} />
+                    Unite Us <ExternalLink size={14} />
                   </a>
-                  {" "}· Healthcare Care Management
+                  {" "}· Coordinated Care Network Platform
                 </p>
               </div>
             </div>
@@ -415,9 +417,9 @@ const ExperienceSection = () => {
                 { src: pearsuiteTeam, alt: "Healthcare team collaboration" },
                 { src: pearsuiteAnalytics, alt: "Patient analytics dashboard" },
               ]}
-              href="https://www.pearsuite.com"
-              label="PearSuite"
-              sublabel="Healthcare Care Management Platform"
+              href="https://app.uniteus.io"
+              label="Unite Us"
+              sublabel="Coordinated Care Network Platform"
             />
           </div>
         </div>
