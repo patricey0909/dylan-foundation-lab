@@ -39,7 +39,7 @@ const FooterSection = () => {
               Let's Connect
             </h2>
             <div className="flex flex-wrap items-center justify-center gap-6 text-muted-foreground mb-10">
-              <a
+              {/* <a
                 href="https://www.linkedin.com/in/appleby-parker-dylan/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -47,13 +47,13 @@ const FooterSection = () => {
               >
                 <Linkedin size={16} />
                 <span className="text-sm">LinkedIn</span>
-              </a>
+              </a> */}
               <a
-                href="mailto:Appleby.dylan@outlook.com"
+                href="mailto:dylan.applebyme@outlook.com"
                 className="flex items-center gap-2 hover:text-primary transition-colors"
               >
                 <Mail size={16} />
-                <span className="text-sm">Appleby.dylan@outlook.com</span>
+                <span className="text-sm">dylan.applebyme@outlook.com</span>
               </a>
               <a
                 href="tel:+15125532945"
