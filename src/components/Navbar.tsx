@@ -41,7 +41,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://www.linkedin.com/in/dylan-apple-474bb33aa"
+            href="https://www.linkedin.com/in/dylan-parker-appleby-2722b5417/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
