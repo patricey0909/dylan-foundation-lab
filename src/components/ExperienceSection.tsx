@@ -285,7 +285,7 @@ const ExperienceSection = () => {
               <div>
                 <p className="text-primary text-sm tracking-wider uppercase mb-1">Jan 2025 – Present</p>
                 <h3 className="text-3xl md:text-4xl font-display font-bold text-foreground">
-                  Lead Software Engineer
+                  Senior Software Engineer
                 </h3>
                 <p className="text-lg text-muted-foreground mt-1">
                   <a
@@ -311,7 +311,7 @@ const ExperienceSection = () => {
             </div>
 
             <p className="text-muted-foreground max-w-3xl leading-relaxed mb-4">
-              As Lead Software Engineer at Cognizant, directed a team of five engineers delivering for flagship client The Upright Project. Spearheaded the transformation of scientific impact models into a market-ready CSRD compliance product,
+              As Senior Software Engineer at Cognizant, directed a team of five engineers delivering for flagship client The Upright Project. Spearheaded the transformation of scientific impact models into a market-ready CSRD compliance product,
               delivering automated materiality assessments that cut report turnaround time in half. Architected
               cloud-native data pipelines processing thousands of company ESG profiles, enabling enterprise clients
               to meet EU sustainability mandates ahead of regulatory deadlines.
